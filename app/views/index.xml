@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="appWin" class="container">
+		<Widget src="uk.co.spiralarm.widget.clickylabel" onWidgetclick="clicked"/>
+	</Window>
+</Alloy>

@@ -1,0 +1,11 @@
+[{
+  "title": "Documentor Guides",
+  "items": [
+  	{
+    	"name": "intro",
+    	"url": "guides/intro",
+    	"title": "DuckAndCover Introduction",
+    	"description": "A quick introduction to the DuckAndCover TiStudio plugin."
+  	}	
+  ]
+}]

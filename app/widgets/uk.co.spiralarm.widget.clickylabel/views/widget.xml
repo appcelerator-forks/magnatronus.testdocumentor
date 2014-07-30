@@ -1,0 +1,3 @@
+<Alloy>
+	<Label id="clickyLabel" onClick="clicked"></Label>
+</Alloy>

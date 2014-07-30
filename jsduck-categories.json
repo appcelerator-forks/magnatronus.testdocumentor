@@ -1,0 +1,21 @@
+[
+	{
+		"name":"Controllers",
+		"groups":[
+			{
+				"name":"Application Controllers",
+				"classes":["myapp.*"]
+			}
+		]
+	},
+	
+	{
+		"name":"Widgets",
+		"groups":[
+			{
+				"name":"Project Widgets",
+				"classes":["uk.co.spiralarm.widget.*"]
+			}
+		]
+	}
+]
